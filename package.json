@@ -1,0 +1,17 @@
+{
+  "name": "express-yourself-machine",
+  "version": "1.0.0",
+  "description": "backend-testing",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "jay lee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
